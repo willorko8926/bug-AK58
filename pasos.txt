@@ -1,0 +1,2 @@
+paso 1: consultar la versión del servicio cloud
+paso 2: escribir "init 6"
